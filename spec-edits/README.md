@@ -1,4 +1,4 @@
-# AI-Powered Code Editor with Speculative Execution
+# AI-Powered code editing with Speculative Execution and Merkle Trees
 
 ## Overview
 An advanced code editing system that uses AI to implement "speculative edits" using PyTorch and Hugging Face transformers. The system employs multiple optimization techniques including quantum-inspired pattern matching, neural caching, and Merkle trees for efficient code analysis and generation.
